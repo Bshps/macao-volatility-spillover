@@ -1,6 +1,6 @@
 # Volatility Spillovers in Macao's Gaming Economy before and after COVID-19
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20523832.svg)](https://doi.org/10.5281/zenodo.20523832)
 
 **Author**: Lin Yihuan (ORCID: [0000-0002-8391-7732](https://orcid.org/0000-0002-8391-7732))
 **Affiliation**: School of Business and Economics, Universiti Putra Malaysia
@@ -79,7 +79,7 @@ All models are implemented from scratch using `scipy.optimize` (BFGS/L-BFGS-B ma
   author  = {Lin, Yihuan},
   journal = {International Journal of Economic Performance},
   year    = {forthcoming},
-  note    = {Data and code available at: https://doi.org/10.5281/zenodo.xxxxxxx}
+  note    = {Data and code available at: https://doi.org/10.5281/zenodo.20523832}
 }
 ```
 
