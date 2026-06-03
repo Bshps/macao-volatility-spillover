@@ -1,0 +1,5 @@
+Series,ARCH-LM(12),p-value,ARCH effects
+Total visitors log-ret,27.241,0.0071,Yes
+Same-day visitors log-ret,25.186,0.014,Yes
+Overnight visitors log-ret,37.196,0.0002,Yes
+Gaming log-ret,34.599,0.0005,Yes

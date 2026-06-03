@@ -1,0 +1,11 @@
+Series,ADF stat,Lags,CV 5%,Decision
+Total visitors (level),-2.554,12,-2.9,I(1)
+Overnight visitors (level),-2.459,12,-2.9,I(1)
+Same-day visitors (level),-2.622,12,-2.9,I(1)
+Gaming revenue (level),-1.897,12,-2.9,I(1)
+Overnight share % (level),-5.183,3,-2.9,I(1)
+Total visitors log-ret,-5.392,12,-2.9,I(0)
+Overnight visitors log-ret,-5.509,12,-2.9,I(0)
+Same-day visitors log-ret,-5.274,12,-2.9,I(0)
+Gaming log-ret,-4.546,12,-2.9,I(0)
+Overnight share 1st diff,-6.312,10,-2.9,I(0)

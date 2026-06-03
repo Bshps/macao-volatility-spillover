@@ -1,0 +1,6 @@
+Series,N,Mean,Std,Min,Max,Skewness,Ex. Kurtosis,JB p-value
+Total visitors (log-ret %),210,0.285,50.877,-366.4,352.5,-1.833,32.2,0.0
+Same-day visitors (log-ret %),210,0.311,48.896,-332.5,306.3,-2.122,27.909,0.0
+Overnight visitors (log-ret %),210,0.252,56.268,-425.3,423.6,-1.278,35.615,0.0
+Gaming revenue (log-ret %),210,0.441,29.397,-190.2,132.3,-1.54,15.183,0.0
+Overnight share (1st diff %),210,-0.015,4.763,-21.2,27.3,0.282,8.146,0.0
