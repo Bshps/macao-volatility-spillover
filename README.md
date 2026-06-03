@@ -4,7 +4,7 @@
 
 **Author**: Lin Yihuan (ORCID: [0000-0002-8391-7732](https://orcid.org/0000-0002-8391-7732))
 **Affiliation**: School of Business and Economics, Universiti Putra Malaysia
-**Journal**: *International Journal of Economic Performance* (ISSN 2661-7161), accepted, forthcoming
+**Journal**: *International Journal of Economic Performance* (المجلة الدولية للأداء الاقتصادي) — ISSN 2661-7161 (Print) / 2716-9073 (Online) — Accepted, forthcoming
 
 ---
 
