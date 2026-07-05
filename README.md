@@ -4,7 +4,8 @@
 
 **Author**: Lin Yihuan (ORCID: [0000-0002-8391-7732](https://orcid.org/0000-0002-8391-7732))
 **Affiliation**: School of Business and Economics, Universiti Putra Malaysia
-**Journal**: *International Journal of Economic Performance* (المجلة الدولية للأداء الاقتصادي) — ISSN 2661-7161 (Print) / 2716-9073 (Online) — Accepted, forthcoming
+**Journal**: *International Journal of Economic Performance* (المجلة الدولية للأداء الاقتصادي) — ISSN 2661-7161 (Print) / 2716-9073 (Online) — Volume 9, Numéro 1, pp. 113–128 (2026)
+**Published article**: [https://asjp.cerist.dz/en/article/299154](https://asjp.cerist.dz/en/article/299154)
 
 ---
 
@@ -12,7 +13,7 @@
 
 This repository contains the replication package for the paper:
 
-> Lin, Y. (forthcoming). Volatility Spillovers in Macao's Gaming Economy before and after COVID-19. *International Journal of Economic Performance*.
+> Lin, Y. (2026). Volatility Spillovers in Macao's Gaming Economy before and after COVID-19. *International Journal of Economic Performance*, 9(1), 113–128. https://asjp.cerist.dz/en/article/299154
 
 The study examines the dynamic relationship between overnight visitor arrivals and gaming revenue in Macao using **GJR-GARCH**, **Dynamic Conditional Correlation (DCC)**, and the **Diebold-Yilmaz spillover framework**. Key findings include:
 
@@ -78,8 +79,10 @@ All models are implemented from scratch using `scipy.optimize` (BFGS/L-BFGS-B ma
   title   = {Volatility Spillovers in Macao's Gaming Economy before and after COVID-19},
   author  = {Lin, Yihuan},
   journal = {International Journal of Economic Performance},
-  year    = {forthcoming},
-  note    = {Data and code available at: https://doi.org/10.5281/zenodo.20523832}
+  volume  = {9},
+  number  = {1},
+  pages   = {113--128},
+  year    = {2026}
 }
 ```
 

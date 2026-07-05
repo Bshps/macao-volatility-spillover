@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this replication package in your research, please cite the published article."
+type: article
+authors:
+  - family-names: Lin
+    given-names: Yihuan
+    orcid: "https://orcid.org/0000-0002-8391-7732"
+title: "Volatility Spillovers in Macao's Gaming Economy before and after COVID-19"
+journal: "International Journal of Economic Performance"
+volume: 9
+issue: 1
+pages: "113-128"
+year: 2026
+month: 6
+url: "https://asjp.cerist.dz/en/article/299154"
+repository-code: "https://github.com/Bshps/macao-volatility-spillover"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20523832"
