@@ -1,5 +1,7 @@
 # Volatility Spillovers in Macao's Gaming Economy before and after COVID-19
 
+**Read this in other languages:** [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文（香港）](README.zh-HK.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20523832.svg)](https://doi.org/10.5281/zenodo.20523832)
 
 **Author**: Lin Yihuan (ORCID: [0000-0002-8391-7732](https://orcid.org/0000-0002-8391-7732))

@@ -1,5 +1,7 @@
 # 新冠疫情前后澳门博彩经济的波动率溢出效应
 
+**其他语言版本：** [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文（香港）](README.zh-HK.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20523832.svg)](https://doi.org/10.5281/zenodo.20523832)
 
 **作者**: Lin Yihuan (ORCID: [0000-0002-8391-7732](https://orcid.org/0000-0002-8391-7732))
