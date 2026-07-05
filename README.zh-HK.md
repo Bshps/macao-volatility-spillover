@@ -1,6 +1,6 @@
 # 新冠疫情前後澳門博彩經濟的波動率溢出效應
 
-**其他語言版本：** [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文（香港）](README.zh-HK.md)
+**其他語言版本：** [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文（香港）](README.zh-HK.md) | [العربية](README.ar.md) | [Melayu](README.ms.md)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20523832.svg)](https://doi.org/10.5281/zenodo.20523832)
 
